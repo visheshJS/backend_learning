@@ -1,0 +1,15 @@
+{
+  "name": "backend_video",
+  "version": "1.0.0",
+  "description": "learning backend dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "vishesh sharma",
+  "license": "ISC"
+}
